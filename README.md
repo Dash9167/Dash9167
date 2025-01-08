@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on a web developer internship, focusing on frontend development and WordPress.<br>🤝 I’m looking to collaborate on React and JavaScript projects.<br>🙋‍♂️ I’m looking for help with backend development and AWS.<br>🌱 I’m currently learning AWS and improving my frontend skills.<br>💬 Ask me about frontend development and SEO.<br>⚡ Fun fact: I recently earned two AWS certifications.<br>       🎓 AWS Certified Cloud Practitioner <br>       🎓 AWS re/Start Graduate<br><br><br><br><br><br><br>
+👨‍💻 I’m currently working on a web developer internship, focusing on frontend development.<br>🤝 I’m looking to collaborate on React and JavaScript projects.<br>🙋‍♂️ I’m looking for help with backend development and AWS.<br>🌱 I’m currently learning AWS and improving my frontend skills.<br>💬 Ask me about frontend development and SEO.<br>⚡ Fun fact: I recently earned two AWS certifications.<br>       🎓 AWS Certified Cloud Practitioner <br>       🎓 AWS re/Start Graduate<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
